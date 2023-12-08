@@ -1161,7 +1161,7 @@ body {
 .tutorialContainer__890ea .wrapper_d281dd {
     background-color: #fff;
     opacity: .5;
-    -webkit-mask: url(https://wallpapercave.com/wp/wp5949011.jpg);
+    -webkit-mask: url("https://wallpapercave.com/wp/wp5949011.jpg");
     width: 100%;
     height: 100%;
     -webkit-mask-size: 28px;
