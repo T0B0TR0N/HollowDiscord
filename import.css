@@ -20,42 +20,11 @@
 }
 /* Theme info and version */
 .info__755e1:after {
-    content: "Glass Wave Theme 1.2";
+    content: "HollowDiscord";
     position: relative;
     font-size: 12px;
     line-height: 16px;
     color: var(--text-muted);
-}
-/* Theme Developer sign */
-.avatar__08316[src*="253480609224065025"]+::after {
-    content: 'Theme Developer';
-    text-transform: uppercase;
-    font-size: 10px;
-    font-weight: 500;
-    line-height: normal;
-    display: inline-block;
-    text-align: center;
-    white-space: nowrap;
-    text-shadow: none;
-    color: crimson;
-    position: absolute;
-    margin: 0 8px;
-    padding: 2px 4px;
-    transform: translateY(20%);
-}
-/* Theme customisation instructions */
-#themes-tab .bd-addon-controls:after {
-    content: "Glass Wave customisations: \a\a Glass Wave can be customised using the bellow code in your custom css tab. \a\a :root{ \a --var-background: url(Custom image) ;\a --var-accent: Custom color ;\a --var-popout-color: Custom color ;\a --var-chat-bubbles-background: Custom color ;\a --var-chat-mentioned: Custom color ;\a --var-hover20: Custom color ;\a--var-hover22: Custom color ;\a--var-hover25: Custom color ;\a--var-hover30: Custom color ;\a--var-hover50: Custom color ;\a--var-hover80: Custom color ;\a--var-hover100: Custom color ;\a }; \a\a Theme Presets: \a\a Use one of the bellow @imports in your custom css tab to apply a pre-made customisation \a preset for Gass Wave.\a\a @import url(https://elisniper.github.io/Glass-Wave/Addons/Presets/02FranXX.css); \a @import url(https://elisniper.github.io/Glass-Wave/Addons/Presets/EminenceInShadow.css);";
-    position: relative;
-    display: flex;
-    width: 100%;
-    margin-top: 10px;
-    background: var(--var-black1);
-    color: var(--header-secondary);
-    box-sizing: border-box;
-    padding: 16px;
-    border-radius: 5px;
-    white-space: pre;
 }
 /* Transparent Backgrounds */
 .layer__2efaa .wrapper_a7e7a8, .layer__2efaa .container__037ed, .layer__2efaa, .layer__2efaa .standardSidebarView__1129a, .appMount_fae9dd .layers_a23c37, .appMount_fae9dd .layer__2efaa,
