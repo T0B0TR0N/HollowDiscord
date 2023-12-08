@@ -1158,8 +1158,16 @@ body {
 }
 /* Sliders END*/
 /* Home Icon */
-.tutorialContainer__890ea .listItem_fa7b36:first-child .childWrapper__01b9c {
-    background-color: transparent;
+.homeIcon-r0w4ny path {fill: transparent}
+
+.homeIcon-r0w4ny {
+
+background: url('https://wallpapercave.com/wp/wp5949011.jpg') center/cover no-repeat;
+
+min-width: 60px;
+
+min-height: 60px;
+
 }
 .tutorialContainer__890ea .wrapper_d281dd rect {
     display: none;
