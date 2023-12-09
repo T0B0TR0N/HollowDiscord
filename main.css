@@ -84,7 +84,7 @@ body {
 /*Home Icon*/
 
 
-.childWrapper__01b9c {
+. {
 
 background: url('https://www.hdwallpaper.nu/wp-content/uploads/2018/11/hollow_knight-15-768x480.jpg') center/cover no-repeat;
 
@@ -1185,7 +1185,7 @@ min-height: 60px;
     display: none;
 }
 .tutorialContainer__890ea .wrapper_d281dd {
-    opacity: .5;
+    opacity: 0;
     transition: all 100ms ease;
 }
 .tutorialContainer__890ea .wrapper_d281dd:hover, .tutorialContainer__890ea .wrapper_d281dd.selected_f5ec8e {
