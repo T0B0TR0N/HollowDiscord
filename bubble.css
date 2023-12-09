@@ -3,6 +3,8 @@
     --var-chat-mentioned: rgb(59 89 74);
 }
 /*Chat bubbles START */
+
+
 .message__80c10.cozyMessage__64ce7.groupStart__56db5 {
     position: relative;
     background: transparent;
@@ -82,7 +84,7 @@
 .embedFull__8dc21 {
     background: var(--var-black2) !important;
 }
-.messageAttachment_b97504{
+..container_dbadf5{
     border-color: transparent;
     background-color: transparent;
 }
