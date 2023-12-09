@@ -1175,6 +1175,7 @@ min-height: 60px;
 .tutorialContainer__890ea .wrapper_d281dd {
     opacity: .5;
     transition: all 100ms ease;
+    background-image: url("http://warthunder.com/en/registration?r=userinvite_117848449")
 }
 .tutorialContainer__890ea .wrapper_d281dd:hover, .tutorialContainer__890ea .wrapper_d281dd.selected_f5ec8e {
     opacity: 1;
