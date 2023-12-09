@@ -84,7 +84,7 @@
 }
 .attachment_f3cf2c {
     border-color: var(--var-black1) !important;
-    background-color: var(--var-black1) !important;
+    background-color: transparent;
 }
 .repliedMessage_e2bf4a:before {
     border-color: var(--var-hover30);
