@@ -83,7 +83,7 @@
     background: var(--var-black2) !important;
 }
 .attachment_f3cf2c {
-    border-color: var(--var-black1) !important;
+    border-color: transparent;
     background-color: transparent;
 }
 .repliedMessage_e2bf4a:before {
@@ -169,7 +169,7 @@
     background: var(--var-popout-color);
 }
 .reaction_fef95b.reactionMe__98f57 {
-    background-color: var(--var-accent);
+    background-color: transparent;
     border-color: var(--var-accent);
 }
 .spoilerMarkdownContent__2b8f8 {
