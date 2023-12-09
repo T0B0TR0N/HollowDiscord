@@ -32,7 +32,7 @@
     margin: 0;
     padding-left: 10px;
     padding-bottom: 3px;
-    background: var(--var-chat-bubbles-background);
+    background: transparent;
 }
 .message__80c10.cozyMessage__64ce7 .container_dbadf5:is(:not(:empty)) {
     border-radius: 0 0 5px 5px;
@@ -83,11 +83,7 @@
 }
 .embedFull__8dc21 {
     background: var(--var-black2) !important;
-}
-..container_dbadf5{
-    border-color: transparent;
-    background-color: transparent;
-}
+
 .repliedMessage_e2bf4a:before {
     border-color: var(--var-hover30);
 }
