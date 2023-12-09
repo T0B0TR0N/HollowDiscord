@@ -54,7 +54,7 @@
     z-index: -5;
 }
 body {
-    background-image: url("https://steamuserimages-a.akamaihd.net/ugc/2313224671861392691/590AAA8DA4E3EC88D2C029B9BC25135D20179130/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false");
+    background-image: url("https://tenor.com/view/hollow-knight-gif-25140277");
     background-position-x: center;
     background-position-y: center;
     background-size: cover;
@@ -1175,7 +1175,6 @@ min-height: 60px;
 .tutorialContainer__890ea .wrapper_d281dd {
     opacity: .5;
     transition: all 100ms ease;
-    background-image: url("http://warthunder.com/en/registration?r=userinvite_117848449")
 }
 .tutorialContainer__890ea .wrapper_d281dd:hover, .tutorialContainer__890ea .wrapper_d281dd.selected_f5ec8e {
     opacity: 1;
