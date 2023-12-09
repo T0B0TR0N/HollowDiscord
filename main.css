@@ -19,6 +19,13 @@
     --var-hover100: rgb(181 181 181 / 100%);
     --home-image: url('https://i.imgur.com/mWV9S97.jpg');	
 }
+
+/*Wumpus Replacement*/
+
+.image_98a59 marginBottom40_9109c {
+	background-image: url("https://i.imgur.com/F8zeix4.png")
+}
+
 /* Theme info and version */
 .info__755e1:after {
     content: "HollowDiscord";
