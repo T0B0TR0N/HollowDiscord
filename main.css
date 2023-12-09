@@ -17,6 +17,7 @@
     --var-hover50: rgb(181 181 181 / 50%);
     --var-hover80: rgb(181 181 181 / 80%);
     --var-hover100: rgb(181 181 181 / 100%);
+    --home-image: url('https://i.imgur.com/mWV9S97.jpg');	
 }
 /* Theme info and version */
 .info__755e1:after {
@@ -83,16 +84,9 @@ body {
 
 /*Home Icon*/
 
-
-. {
-
-background: url('https://www.hdwallpaper.nu/wp-content/uploads/2018/11/hollow_knight-15-768x480.jpg') center/cover no-repeat;
-
-min-width: 60px;
-
-min-height: 60px;
-
-} 
+div[data-list-item-id="guildsnav___home"] {
+	background: var(--home-image) top center/110% no-repeat;
+}
 
 /* Coloring */
 
