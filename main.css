@@ -106,10 +106,9 @@ min-height: 60px;
 .mediaBarGrabber_c64ff9, .mediaBarProgress__29db2, .mediaBarProgress__29db2:after, .mediaBarProgress__29db2:before, .mediaBarInteraction__0633c:hover .mediaBarGrabber_c64ff9,
 .interactive:hover, .row__4daf2:hover, .categoryItem_b1be5c.selectedCategoryItem__0bf4c .itemInner__9e755, .bd-server-tag, .selectorButtonSelected-3cQUnj,
 .theme-dark .tooltipBrand__13fbc, .theme-light .tooltipBrand__13fbc, .theme-light .tooltipBrand__13fbc .tooltipPointer_a79354, .selectorButtonSelected_fbe8fc,
-.selectorButton_c6ae93:not(.selectorButtonPremiumRequired_ce72d6):hover, .wrapper_d281dd.selected_f5ec8e .childWrapper__01b9c, .wrapper_d281dd:hover .childWrapper__01b9c,
-.iconWrapper__85630, .theme-dark .footer__13977, .checkmark__1577e, .countContainer-3DOo5v, .countContainer-3uQ087, .barFill__30e17, .container__73245, .pillItemSelected__3dd13,
+.selectorButton_c6ae93:not(.selectorButtonPremiumRequired_ce72d6):hover, .iconWrapper__85630, .theme-dark .footer__13977, .checkmark__1577e, .countContainer-3DOo5v, .countContainer-3uQ087, .barFill__30e17, .container__73245, .pillItemSelected__3dd13,
 .checkboxCircle_aed363, .theme-dark .dim__7b9b1 .key__06fe6, .theme-dark .calendarPicker__5c474 .react-datepicker, .selectedProgressBar__10383,.activityCardTag-glB7qz,
-.childWrapper__01b9c, .expandedFolderBackground__1bec6, .folder__17546.hover__043de, .folder__17546[aria-expanded=true], .userCardInner_d6aa46, .iconCircle_de71da, .wrapper_cd625e,
+.expandedFolderBackground__1bec6, .folder__17546.hover__043de, .folder__17546[aria-expanded=true], .userCardInner_d6aa46, .iconCircle_de71da, .wrapper_cd625e,
 .uploadInput_bbab2f, .marker__6f061 .empty__3837d, .premiumTrialAcknowledgedBadge_b69948 {
     background-color: var(--var-accent);
 }
