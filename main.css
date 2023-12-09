@@ -81,6 +81,20 @@ body {
 }
 /* Transparent Backgrounds END */
 
+/*Home Icon*/
+
+.homeIcon-r0w4ny path {fill: transparent}
+
+.homeIcon-r0w4ny {
+
+background: url('https://media.giphy.com/media/4ilFRqgbzbx4c/source.gif') center/cover no-repeat;
+
+min-width: 60px;
+
+min-height: 60px;
+
+} 
+
 /* Coloring */
 
 /* Accent */
