@@ -128,7 +128,7 @@ body {
 	background-color: #4a485f;
 }
 
-.searchBar_e4ea2a:focus {
+.searchBar_e4ea2a:hover {
 	background-colour: var(--var-accent);
 }
 
