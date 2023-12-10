@@ -1172,69 +1172,12 @@ body {
 }
 /* Sliders END*/
 /* Home Icon */
-.homeIcon-r0w4ny path {fill: transparent}
-
-.homeIcon-r0w4ny {
-
-background: url('https://wallpapercave.com/wp/wp5949011.jpg') center/cover no-repeat;
-
-min-width: 60px;
-
-min-height: 60px;
-
+.wrapper_d281dd[data-list-item-id="guildsnav___home"] .childWrapper__01b9c {
+    background: url("https://i.imgur.com/mWV9S97.jpg") no-repeat center !important;
+    background-size: cover !important;
 }
-.tutorialContainer__890ea .wrapper_d281dd rect {
+.wrapper_d281dd[data-list-item-id="guildsnav___home"] .childWrapper__01b9c svg {
     display: none;
-}
-.tutorialContainer__890ea .wrapper_d281dd {
-    opacity: 0.5;
-    transition: all 100ms ease;
-}
-.tutorialContainer__890ea .wrapper_d281dd:hover, .tutorialContainer__890ea .wrapper_d281dd.selected_f5ec8e {
-    opacity: 1;
-    transition: all 100ms ease;
-}
-.scroller__3d071:not(.foldercontent) .tutorialContainer__890ea .listItem_fa7b36:first-child .pill_d1140c {
-    display: none;
-}
-.scroller__3d071:not(.foldercontent) > .tutorialContainer__890ea {
-    position: fixed;
-    display: flex;
-    margin: 0;
-    margin-bottom: 5px;
-    height: 48px;
-    width: 72px;
-    top: 22px;
-    border-radius: 10px 10px 0 0;
-    background-color: var(--var-black1);
-    z-index: 1;
-}
-.scroller__3d071:not(.foldercontent) > .tutorialContainer__890ea .lowerBadge__669e7 {
-    bottom: 28px;
-    right: 0px;
-}
-.wrapper_a7e7a8 .scroller__3d071 {
-    padding-top: 0px;
-    margin-top: 48px;
-}
-.unreadMentionsIndicatorTop_ada847 {
-    top: 42px;
-}
-/* User popouts */
-.userProfileInnerThemedNonPremium__3d0a6 .role__631a3 {
-    background-color: var(--var-hover20);
-}
-.userProfileInnerThemedNonPremium__3d0a6 {
-    background: var(--var-popout-color);
-}
-.userProfileInnerThemedNonPremium__3d0a6 .overlayBackground__86b78 {
-    background-color: var(--var-black1);
-}
-.userProfileInnerThemedNonPremium__3d0a6 .menu__5cf7f {
-    background-color: transparent;
-}
-.userProfileInnerThemedNonPremium__3d0a6 .badgeList-2aoHPw {
-    background-color: var(--var-hover20);
 }
 /* Notice */
 .notice__5fd4c {
