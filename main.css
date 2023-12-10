@@ -116,8 +116,13 @@ body {
 }
 
 .searchBar_e4ea2a {
-	background-color: var(--var-accent);
+	background-color: #4a485f;
 }
+
+.searchBar_e4ea2a:focus {
+	background-colour: var(--var-accent);
+}
+
 
 .addFriendInputWrapper__4bf8e:focus-within, .wrapper__4beb8 {
     border-color: var(--var-accent);
