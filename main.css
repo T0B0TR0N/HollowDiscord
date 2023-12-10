@@ -116,7 +116,11 @@ body {
 }
 
 .userPopoutOverlayBackground_d8afa4 {
-	background-colour: var(--var-accent);
+	background-color: var(--var-accent);
+}
+
+.buttonsInner_bca8fa .wrapper_c727b6 {
+	background-color: var(--var-accent);
 }
 
 /*Conversation Search Bar*/
