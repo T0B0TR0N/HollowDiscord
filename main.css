@@ -115,6 +115,11 @@ body {
     background-color: var(--var-accent);
 }
 
+.userPopoutInner_f545a3 {
+	background-colour: var(--var-accent);
+}
+
+/*Conversation Search Bar*/
 .searchBar_e4ea2a {
 	background-color: #4a485f;
 }
@@ -123,7 +128,7 @@ body {
 	background-colour: var(--var-accent);
 }
 
-
+/*other*/
 .addFriendInputWrapper__4bf8e:focus-within, .wrapper__4beb8 {
     border-color: var(--var-accent);
 }
