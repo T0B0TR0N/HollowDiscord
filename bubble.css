@@ -1,6 +1,6 @@
 :root {
     --var-chat-bubbles-background: linear-gradient(90deg, rgb(24 44 43) 0%, rgb(11 35 40) 50%, rgb(5 30 38) 100%);
-    --var-chat-mentioned: rgb(59 89 74);
+    --var-chat-mentioned: rgb(4 28 84);
 }
 /*Chat bubbles START */
 
@@ -26,7 +26,7 @@
     padding-top: 5px;
     padding-bottom: 3px;
     border-radius: 5px;
-    background: var(--var-accent);
+    background: var(--var-hover20);
 }
 .message__80c10.cozyMessage__64ce7 .container_dbadf5 {
     margin: 0;
