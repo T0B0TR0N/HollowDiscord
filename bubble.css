@@ -26,13 +26,11 @@
     padding-top: 5px;
     padding-bottom: 3px;
     border-radius: 5px;
-    background: var(--var-hover20);
 }
 .message__80c10.cozyMessage__64ce7 .container_dbadf5 {
     margin: 0;
     padding-left: 10px;
     padding-bottom: 3px;
-    background: transparent;
 }
 .message__80c10.cozyMessage__64ce7 .container_dbadf5:is(:not(:empty)) {
     border-radius: 0 0 5px 5px;
@@ -53,9 +51,7 @@
 .repliedMessage_e2bf4a {
     height: 26px;
 }
-.message__80c10.mentioned__58017 .contents_f41bb2 {
-    background: rgba( 30, 27, 5, 0.75) !important;
-}
+
 .message__80c10:not(.groupStart__56db5), .message__80c10.selected_fd9051, .mouse-mode.full-motion .message__80c10:hover {
     background: transparent;
     overflow: visible;
@@ -73,7 +69,6 @@
     pointer-events: none;
     width: 3px;
     border-radius: 10px;
-    background-color: var(--info-warning-foreground);
 }
 .message__80c10:not(.groupStart__56db5):before {
     background-color: transparent;
