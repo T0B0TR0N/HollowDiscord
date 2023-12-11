@@ -113,6 +113,10 @@ body {
 
 /*Profile Popouts*/
 
+.userProfileOuterUnthemed__48723 { 
+	background-color: var(--var-accent) !important;
+}
+
 .userProfileInnerThemedNonPremium_3d0a6 {
 	background-color: var(--var-accent) !important;
 }
