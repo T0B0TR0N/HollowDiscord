@@ -113,6 +113,10 @@ body {
 
 /*Profile Popouts*/
 
+.overlayBackground__86b78 {
+	background-color: var(--var-accent) !important;
+}
+
 .userProfileOuterUnthemed__48723 { 
 	background-color: transparent !important;
 }
