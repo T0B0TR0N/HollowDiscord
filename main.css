@@ -140,10 +140,9 @@ body {
 	background-color: transparent;
 }
 
-.searchBar_e4ea2a:hover {
-	background-colour: var(--var-accent);
+.searchBarComponent_22760 {
+	background-color: #4a485f;
 }
-
 /*other*/
 .addFriendInputWrapper__4bf8e:focus-within, .wrapper__4beb8 {
     border-color: var(--var-accent);
