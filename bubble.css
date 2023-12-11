@@ -55,6 +55,7 @@
 }
 .message__80c10.mentioned__58017 .contents_f41bb2 {
     background: var(--var-chat-mentioned) !important;
+    opacity: 0.75;
 }
 .message__80c10:not(.groupStart__56db5), .message__80c10.selected_fd9051, .mouse-mode.full-motion .message__80c10:hover {
     background: transparent;
