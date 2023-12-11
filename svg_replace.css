@@ -1,7 +1,6 @@
 /* ⛏️ Wumpus Mining */
-[style*='background-image: url("/assets/532f1d4582d881960783.svg");'],
-[style*='background-image: url("/assets/ee4637f8627629dd0da5.svg");'] {
-  background-image: url("https://nyri4.github.io/Discolored/assets/wumpus_mining.svg") !important;
+.image__98a59{
+  background-image: url(https://raw.githubusercontent.com/T0B0TR0N/HollowDiscord/main/Cornifer-removebg-preview.png) !important;
 }
 
 /* 🗻 Wumpus Mountains */
@@ -10,9 +9,8 @@
 }
 
 /* 💤 Wumpus Sleeping */
-[style*='background-image: url("/assets/24aa06be5457e66bdd64.svg");'],
-[style*='background-image: url("/assets/0629e34902ae58f8e4ca.svg");'] {
-  background-image: url("https://nyri4.github.io/Discolored/assets/wumpus_sleeping.svg") !important;
+.image__98a59 {
+  background-image: url(https://raw.githubusercontent.com/T0B0TR0N/HollowDiscord/main/Cornifer-removebg-preview.png) !important;
 }
 
 /* 🍵 Wumpus Tea Party */
