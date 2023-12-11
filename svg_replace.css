@@ -14,9 +14,6 @@
 }
 
 /* 🍵 Wumpus Tea Party */
-[style*='background-image: url("/assets/bca918618b884a382ab5.svg");'],
-[style*='background-image: url("/assets/5741692705ba077f4190.svg");'],
-.theme-dark .notFriends__778a1 .errorStateIcon__7edd8,
-.theme-light .notFriends__778a1 .errorStateIcon__7edd8 {
-  background-image: url("https://nyri4.github.io/Discolored/assets/wumpus_tea_party.svg") !important;
+.image__98a59 {
+  background-image: url(https://raw.githubusercontent.com/T0B0TR0N/HollowDiscord/main/Cornifer-removebg-preview.png) !important;
 }
