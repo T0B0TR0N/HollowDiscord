@@ -115,6 +115,13 @@ body {
     background-color: var(--var-accent);
 }
 
+/*Profile Popouts*/
+
+.userProfileInnerThemedNonPremium_3d0a6 {
+	background-color: var(--var-accent);
+}
+
+
 .userPopoutOverlayBackground_d8afa4 {
 	background-color: var(--var-accent);
 }
