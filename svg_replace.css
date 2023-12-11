@@ -5,9 +5,8 @@
 }
 
 /* 🗻 Wumpus Mountains */
-[style*='background-image: url("/assets/01864c39871ce619d855.svg");'],
-[style*='background-image: url("/assets/a72746e7108167af95c8.svg");'] {
-  background-image: url("https://github.com/T0B0TR0N/HollowDiscord/blob/main/Cornifer-removebg-preview.png") !important;
+.image__98a59 {
+  background-image: url(https://raw.githubusercontent.com/T0B0TR0N/HollowDiscord/main/Cornifer-removebg-preview.png) !important;
 }
 
 /* 💤 Wumpus Sleeping */
