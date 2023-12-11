@@ -1,19 +1,31 @@
-/* ⛏️ Wumpus Mining 
-.image__98a59{
-  background-image: url(https://github.com/T0B0TR0N/HollowDiscord/blob/main/miner.png) !important;
-} */
-
-/* 🗻 Wumpus Mountains */
-.image__98a59 {
-  background-image: url(https://raw.githubusercontent.com/T0B0TR0N/HollowDiscord/main/Cornifer-removebg-preview.png) !important;
+/* 🎁 Gift Inventory */
+:root .emptyStateImage__3e0a5,
+:root .emptyWumpus__67af4 {
+  background-image: url("https://nyri4.github.io/Discolored/assets/gift_inventory.svg");
 }
 
-/* 💤 Wumpus Sleeping 
-.image__98a59 {
-  background-image: url(https://raw.githubusercontent.com/T0B0TR0N/HollowDiscord/main/Cornifer-removebg-preview.png) !important;
-} */
+/* ⛏️ Wumpus Mining */
+[style*='background-image: url("/assets/532f1d4582d881960783.svg");'],
+[style*='background-image: url("/assets/ee4637f8627629dd0da5.svg");'] {
+  background-image: url("https://nyri4.github.io/Discolored/assets/wumpus_mining.svg") !important;
+}
 
-/* 🍵 Wumpus Tea Party 
-.image__98a59 {
-  background-image: url(https://raw.githubusercontent.com/T0B0TR0N/HollowDiscord/main/Cornifer-removebg-preview.png) !important;
-} */
+/* 🗻 Wumpus Mountains */
+[style*='background-image: url("/assets/01864c39871ce619d855.svg");'],
+[style*='background-image: url("/assets/a72746e7108167af95c8.svg");'] {
+  background-image: url("https://nyri4.github.io/Discolored/assets/wumpus_mountain.svg") !important;
+}
+
+/* 💤 Wumpus Sleeping */
+[style*='background-image: url("/assets/24aa06be5457e66bdd64.svg");'],
+[style*='background-image: url("/assets/0629e34902ae58f8e4ca.svg");'] {
+  background-image: url("https://nyri4.github.io/Discolored/assets/wumpus_sleeping.svg") !important;
+}
+
+/* 🍵 Wumpus Tea Party */
+[style*='background-image: url("/assets/bca918618b884a382ab5.svg");'],
+[style*='background-image: url("/assets/5741692705ba077f4190.svg");'],
+.theme-dark .notFriends__778a1 .errorStateIcon__7edd8,
+.theme-light .notFriends__778a1 .errorStateIcon__7edd8 {
+  background-image: url("https://nyri4.github.io/Discolored/assets/wumpus_tea_party.svg") !important;
+}
