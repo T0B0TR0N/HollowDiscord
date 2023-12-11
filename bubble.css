@@ -1,6 +1,6 @@
 :root {
     --var-chat-bubbles-background: linear-gradient(90deg, rgb(24 44 43) 0%, rgb(11 35 40) 50%, rgb(5 30 38) 100%);
-    --var-chat-mentioned: rgb(4 28 84);
+    --var-chat-mentioned: rgb(28 28 60);
 }
 /*Chat bubbles START */
 
