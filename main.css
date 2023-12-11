@@ -85,16 +85,6 @@ body {
 }
 /* Transparent Backgrounds END */
 
-/*Home Icon*/
-
-/* Change Home Icon */
-.wrapper_d281dd[data-list-item-id="guildsnav___home"] .childWrapper__01b9c {
-    background: url("PNG/GIF link") no-repeat center !important;
-    background-size: cover !important;
-}
-.wrapper_d281dd[data-list-item-id="guildsnav___home"] .childWrapper__01b9c svg {
-    display: none;
-}
 
 
 /* Coloring */
