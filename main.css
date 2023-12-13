@@ -1205,9 +1205,11 @@ body {
     transition: 100ms ease;
 }
 /* Sliders END*/
+
+
 /* Home Icon */
 .wrapper_d281dd[data-list-item-id="guildsnav___home"] .childWrapper__01b9c {
-    background: url("https://i.imgur.com/mWV9S97.jpg") no-repeat center !important;
+    background: url("https://github.com/T0B0TR0N/HollowDiscord/blob/Stable-Release/DarkNight.jpg") no-repeat center !important;
     background-size: cover !important;
 }
 .wrapper_d281dd[data-list-item-id="guildsnav___home"] .childWrapper__01b9c svg {
