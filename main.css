@@ -49,6 +49,10 @@
 .wrapper__3d460, .wrapper_a7e7a8, .container_b181b6, .wrapper_dae547, .paymentNote_c68ae0, .container__949fa .container_d2567a, .marker__6f061, .option_b5597b:after, .shop_b31ed2 {
     background-color: transparent;
 }
+
+.searchBar_e4ea2a .searchBarComponent__22760, {
+	background-color: #4a485f !important;
+}
 .bg__12180 {
     background-position-x: center;
     background-color: transparent;
@@ -144,9 +148,6 @@ body {
 	background-color: transparent;
 }
 
-.searchBarComponent_22760 {
-	background-color: #4a485f !important;
-}
 /*other*/
 .addFriendInputWrapper__4bf8e:focus-within, .wrapper__4beb8 {
     border-color: var(--var-accent);
@@ -229,7 +230,7 @@ body {
 .optionContainer__5d0b1, .header__55964 .searchBar__8f956, .upsell__780f6, .container_b03b4b .input_d266e7, .side_b4b3f6 .themed_b957e8.selected__5711d.item__48dda,
 .sidebarRegionScroller__1fa7e .side_b4b3f6 .item__48dda.themed_b957e8:hover:not(.disabled__85bca), .option_be8b2e[aria-selected=true]:not(.option_be8b2e.multi__8d15f), 
 .metadataContainer__7b316, .theme-dark .gemIndicatorContainer_b03ca0, .card__11580:hover, .detailsBlock__1191c .lookFilled__3dba3.select__0eb48, 
-.theme-dark .hoverablePayment__3ea24:hover, .searchBar_e4ea2a .searchBarComponent__22760, .withTagAsButton_cc125f:hover, .withTagless__98b7d:hover, 
+.theme-dark .hoverablePayment__3ea24:hover, .withTagAsButton_cc125f:hover, .withTagless__98b7d:hover, 
 .circleIconButton_d8df29, .button__4f306.enabled__470f0:hover, .section_efc22d, .userProfileInnerThemedNonPremium__3d0a6 .input_d266e7, .friendRequestsButton_f19806,
 .itemFilled__373d7:hover:not([aria-checked=true]):not(.disabled_af801d), .phoneField__65729, 
 .container__7712a, .theme-dark .selectableItem__166c5:focus, .theme-dark .selectableItem__166c5:hover, .theme-dark .bar_e58961, .theme-dark .markDash_dc3ae9,
