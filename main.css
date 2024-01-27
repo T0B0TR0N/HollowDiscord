@@ -1,12 +1,12 @@
-@import url(https://raw.githubusercontent.com/T0B0TR0N/HollowDiscord/main/statuspick.css);
-@import url(https://raw.githubusercontent.com/T0B0TR0N/HollowDiscord/main/bubble.css);
-@import url(https://raw.githubusercontent.com/T0B0TR0N/HollowDiscord/main/icons.css);
-@import url(https://raw.githubusercontent.com/T0B0TR0N/HollowDiscord/main/svg_replace.css);
+@import url(https://raw.githubusercontent.com/T0B0TR0N/HollowDiscord/GreenPath/statuspick.css);
+@import url(https://raw.githubusercontent.com/T0B0TR0N/HollowDiscord/GreenPath/bubble.css);
+@import url(https://raw.githubusercontent.com/T0B0TR0N/HollowDiscord/GreenPath/icons.css);
+@import url(https://raw.githubusercontent.com/T0B0TR0N/HollowDiscord/GreenPath/svg_replace.css);
 
 
 :root {
     --var-background: linear-gradient(138deg, rgba(162,247,220,1) 0%, rgba(18,145,187,1) 80%, rgba(35,108,179,1) 100%);
-    --var-accent: #1e1b38;
+    --var-accent: #0F5154;
     --var-black1: rgb(0 0 0 / 55%);
     --var-black2: rgb(0 0 0 / 65%);
     --var-notification: #B00020;
