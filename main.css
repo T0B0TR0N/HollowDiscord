@@ -18,7 +18,7 @@
     --var-hover50: rgb(181 181 181 / 50%);
     --var-hover80: rgb(181 181 181 / 80%);
     --var-hover100: rgb(181 181 181 / 100%);
-    --home-image: url('https://i.imgur.com/mWV9S97.jpg');	
+    --home-image: url('https://raw.githubusercontent.com/T0B0TR0N/HollowDiscord/GreenPath/greenpath_smol_by_fluffykittyem_ddt0258-fullview-1785449381.jpg');	
 }
 
 
@@ -62,7 +62,7 @@
     z-index: -5;
 }
 body {
-    background-image: url("https://t0b0tron.files.wordpress.com/2024/02/greepath.gif?w=1024");
+    background-image: url("https://i.ibb.co/DkNg6k4/Green-Path.gif");
     background-position-x: center;
     background-position-y: center;
     background-size: cover;
