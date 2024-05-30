@@ -61,8 +61,9 @@
     filter: brightness(100%) contrast(100%) blur(0px) saturate(100%);
     z-index: -5;
 }
+/*https://i.imgur.com/ijOqjWw.gif*/
 body {
-    background-image: url("https://i.imgur.com/ijOqjWw.gif");
+    background-image: url("https://github.com/T0B0TR0N/HollowDiscord/blob/main/hollow.jpg?raw=true*);
     background-position-x: center;
     background-position-y: center;
     background-size: cover;
